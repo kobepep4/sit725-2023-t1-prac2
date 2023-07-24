@@ -1,0 +1,2 @@
+This is a simple calculator developed using node.js and express.js frameworks.
+the application simply take two input parameters from the index.html page and perform some calculations based on the inputs provided and return the result on a new page.
